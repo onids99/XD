@@ -48,19 +48,30 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """ _______  ______  _________ ______  
-(  ___  )(  ___ \ \__   __/(  __  \ 
-| (   ) || (   ) )   ) (   | (  \  )
-| (___) || (__/ /    | |   | |   ) |
-|  ___  ||  __ (     | |   | |   | |
-| (   ) || (  \ \    | |   | |   ) |
-| )   ( || )___) )___) (___| (__/  )
-|/     \||/ \___/ \_______/(______/ 
-\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mAb.id6644
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Abid6t
-\033[1;91m======================================="""
+
+██████╗░░█████╗░███╗░░██╗░█████╗░
+██╔══██╗██╔══██╗████╗░██║██╔══██╗
+██████╔╝███████║██╔██╗██║███████║
+██╔══██╗██╔══██║██║╚████║██╔══██║
+██║░░██║██║░░██║██║░╚███║██║░░██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝
+
+██╗░░██╗██████╗░
+╚██╗██╔╝██╔══██╗
+░╚███╔╝░██║░░██║
+░██╔██╗░██║░░██║
+██╔╝╚██╗██████╔╝
+╚═╝░░╚═╝╚═════╝░
+
+
+
+
+\033[1;91m====================================
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Ali
+\033[1;96mInstagram \033[1;93m: \033[1;92mNadeemali99
+\033[1;96mFacebook  \033[1;93m: \033[1;92mRana Created 
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/onids99/XD
+\033[1;91m======================================="https://github.com/onids99/XD/edit/master/Abid.py"
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -80,15 +91,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mAb.id6644
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Abid6t
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Ali
+\033[1;96mInstagram \033[1;93m: \033[1;92mNadeemXD99
+\033[1;96mFacebook  \033[1;93m: \033[1;92mHammad Ali
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/onids99/XD
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Abid6t"
-CorrectPassword = "Abid"
+CorrectUsername = "ali"
+CorrectPassword = "ali"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +111,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Facebook.com/Omi6t')
+            os.system('xdg-open https://www.Facebook.com/RanaRanaAli')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Facebook.com/Omi6t')
+        os.system('xdg-open https://www.Facebook.com/RansAli')
 
 def login():
 	os.system('clear')
