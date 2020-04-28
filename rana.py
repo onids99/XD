@@ -90,7 +90,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;91m=======================================
+
 \033[1;96mAuthor  \033[1;93m: \033[1;92mRana Ali
 \033[1;96mInstagram \033[1;93m: \033[1;92mNadeemXD99
 \033[1;96mFacebook  \033[1;93m: \033[1;92mHammad Ali
@@ -107,7 +107,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username
+            print "Logged in successfulfly as " + username
             loop = 'false'
         else:
             print "Wrong Password"
